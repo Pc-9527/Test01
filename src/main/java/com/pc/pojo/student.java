@@ -12,4 +12,5 @@ public class student {
     public String name;
     public Integer age;
     public String sex;
+    public Integer phone;
 }
